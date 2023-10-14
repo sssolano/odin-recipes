@@ -1,0 +1,30 @@
+* {
+    background-color: #D2E0FB;
+}
+
+#gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: medium;
+    border-color: #D7E5CA;
+}
+
+.tittle,
+.text {
+    text-align: center;
+}
+
+.ul {
+    list-style-position: inside;
+}
+
+.a {
+    background-color: #F9F3CC;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
