@@ -6,17 +6,22 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border-width: medium;
-    border-color: #D7E5CA;
+    border-style: solid;
 }
 
 .tittle,
 .text {
     text-align: center;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
-.ul {
+.ul,
+.ol {
     list-style-position: inside;
+}
+
+.tittle .a {
+    background-color: #F9F3CC;
 }
 
 .a {
@@ -28,3 +33,9 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+.text .link {
+    text-decoration: none;
+    background-color: #F9F3CC;
+}
+
