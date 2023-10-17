@@ -15,7 +15,6 @@
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
-.ul,
 .ol {
     list-style-position: inside;
 }
@@ -39,3 +38,10 @@ img {
     background-color: #F9F3CC;
 }
 
+button {
+    background-color: #F9F3CC;
+    text-decoration: none;
+    padding: 8px;
+    margin: 8px;
+    margin-left: 310px;
+}
