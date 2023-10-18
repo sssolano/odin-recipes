@@ -7,6 +7,7 @@
     margin-left: auto;
     margin-right: auto;
     border-style: solid;
+    border-radius: 15px;
 }
 
 .tittle,
@@ -31,6 +32,10 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 15px;
+    border-style: solid;
+    width: 400px;
+    height: 300px;
 }
 
 .text .link {
@@ -44,4 +49,28 @@ button {
     padding: 8px;
     margin: 8px;
     margin-left: 310px;
+    border-radius: 15px;
+}
+
+#box {
+    width: 400px;
+}
+
+body {
+    font-family: sans-serif, 'Times New Roman';
+}
+
+#button1 {
+    display: block;
+    width: 300px;
+}
+
+#button2 {
+    display: block;
+    width: 300px;
+}
+
+#button3 {
+    display: block;
+    width: 300px;
 }
