@@ -36,6 +36,7 @@ img {
     border-style: solid;
     width: 400px;
     height: 300px;
+    margin-bottom: 20px;
 }
 
 .text .link {
@@ -73,4 +74,11 @@ body {
 #button3 {
     display: block;
     width: 300px;
+}
+
+.divTittle {
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: #F9F3CC;
 }
